@@ -22,4 +22,4 @@ I am looking for a front-end developer position where I can apply my junior deve
 ##Education: 
  JavaScript course, 2020 _RS School_ <br>
  Bachelor, 2006 - 2010 _National Aerospace University -"Kharkiv Aviation Institute"_<br>
- English skills: A2 gg
+ English skills: A2g
